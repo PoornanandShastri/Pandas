@@ -1,2 +1,2 @@
-# datascience
-Data science projects
+# Pandas
+### This repo is for pandas tutorial for bigenners
